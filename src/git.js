@@ -18,7 +18,7 @@ var countPairs = function (nums, target) {
         })
     }
     console.log("count", count);
-    return count
+    return count // coment
 };
 
 countPairs(nums, target)
